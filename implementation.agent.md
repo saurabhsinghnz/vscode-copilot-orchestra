@@ -11,6 +11,7 @@ tools:
     "execute/testFailure",
   ]
 model: GPT-6 Luna (copilot)
+user-invocable: false
 ---
 
 You are an IMPLEMENTATION SUBAGENT working on a focused task delegated by the CONDUCTOR.

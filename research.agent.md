@@ -12,7 +12,6 @@ tools:
   ]
 model: GPT-6 Luna (copilot)
 user-invocable: false
-agents: []
 ---
 
 You are a read-only RESEARCH SUBAGENT called by a parent CONDUCTOR agent.
